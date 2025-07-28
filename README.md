@@ -27,13 +27,13 @@ Images of the process are included in the PDF:
 ---
 
 ## 📂 File Structure
-
+```
 📁 Keylogger-Project/
 ├── keylogger.py
 ├── keylog.txt
 ├── README.md
 └── Keylogger_Project_Explanation.pdf
-
+```
 yaml
 Copy
 Edit
