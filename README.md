@@ -34,11 +34,6 @@ Images of the process are included in the PDF:
 ├── README.md
 └── Keylogger_Project_Explanation.pdf
 ```
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ How to Run
 
@@ -46,18 +41,14 @@ Edit
 
 Make sure you have Python installed:
 
-```bash
-python --version
 2️⃣ Install Required Library
-bash
-Copy
-Edit
+```
 pip install pynput
+```
 3️⃣ Run the Keylogger
-bash
-Copy
-Edit
+```
 python keylogger.py
+```
 This command starts the keylogger in the background.
 
 📄 Output
